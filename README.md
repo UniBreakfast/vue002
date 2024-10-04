@@ -1,5 +1,7 @@
 # pacergame
 
+A step or two in Vue direction. It didn't go anywhere.
+
 > A Vue.js project
 
 ## Build Setup
